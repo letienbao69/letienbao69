@@ -4,7 +4,7 @@
 # 💫 About Me:
 Chào Thế Giới!
 
-<img src="https://64.media.tumblr.com/ecbc39c1a57fe90c630501047827e347/745470e337029331-a0/s540x810/38e996932294488212d6813b06e3e2497fec6c3e.gifv" alt="Banner" width="70%" />
+<img src="./assets/rezoro.gif" alt="Banner" width="90%" />
 
 
 ## 🌐 Socials:
