@@ -1,3 +1,6 @@
+
+  ![snake gif](https://github.com/letienbao69/letienbao69/blob/output/github-snake.svg)
+
 # letienbao69
 
 ## Description
