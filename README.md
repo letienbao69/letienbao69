@@ -2,7 +2,9 @@
   ![snake gif](https://github.com/letienbao69/letienbao69/blob/output/github-snake.svg)
 
 # 💫 About Me:
-🛠️ I’m currently working as a security guard<br>👯 I’m looking to collaborate on: simple tech projects<br>🤝 I’m looking for help with: improving my English / learning programming<br>🌱 I’m currently learning: English and basic programming<br>💬 Ask me about: daily life, security work, or learning English<br>⚡ Fun fact: I can stay alert all night 😄
+Chào Thế Giới!
+
+<img src="https://64.media.tumblr.com/ecbc39c1a57fe90c630501047827e347/745470e337029331-a0/s540x810/38e996932294488212d6813b06e3e2497fec6c3e.gifv" alt="Banner" width="70%" />
 
 
 ## 🌐 Socials:
