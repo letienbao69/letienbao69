@@ -2,7 +2,7 @@
   ![snake gif](https://github.com/letienbao69/letienbao69/blob/output/github-snake.svg)
 
 # 💫 About Me:
-🛠️ I’m currently working as a security guard<br>👯 I’m looking to collaborate on: (có thể để trống hoặc ghi “simple tech projects”)<br>🤝 I’m looking for help with: improving my English / learning programming<br>🌱 I’m currently learning: English and basic programming<br>💬 Ask me about: daily life, security work, or learning English<br>⚡ Fun fact: I can stay alert all night 😄
+🛠️ I’m currently working as a security guard<br>👯 I’m looking to collaborate on: simple tech projects<br>🤝 I’m looking for help with: improving my English / learning programming<br>🌱 I’m currently learning: English and basic programming<br>💬 Ask me about: daily life, security work, or learning English<br>⚡ Fun fact: I can stay alert all night 😄
 
 
 ## 🌐 Socials:
