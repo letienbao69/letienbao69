@@ -1,4 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ti%E1%BA%BFn%20B%E1%BA%A3o%20GitHub&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=G%C3%A0%20T%E1%BA%ADp%20L%E1%BA%ADp%20Tr%C3%ACnh&descSize=18&descAlignY=55&textBg=false"/>
+<div align="center">
+
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20,24,30&text=Ti%E1%BA%BFn%20B%E1%BA%A3o%20GitHub&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=G%C3%A0%20T%E1%BA%ADp%20L%E1%BA%ADp%20Tr%C3%ACnh&descSize=18&descAlignY=58&animation=twinkling&textBg=false" 
+  width="100%" 
+/>
+
+</div>
 
 # 💫 About Me:
 🌱 Just started coding, still confused most of the time<br>
