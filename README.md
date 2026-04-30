@@ -4,7 +4,7 @@
 # 💫 About Me:
 Chào Thế Giới!
 
-<img src="./assets/rezoro.gif" alt="Banner" width="90%" />
+<img src="./assets/rezoro.gif" alt="Banner" width="100%" />
 
 
 ## 🌐 Socials:
