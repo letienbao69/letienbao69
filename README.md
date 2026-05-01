@@ -1,7 +1,7 @@
 <div align="center">
 
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20,24,30&text=Ti%E1%BA%BFn%20B%E1%BA%A3o%20GitHub&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=G%C3%A0%20T%E1%BA%ADp%20L%E1%BA%ADp%20Tr%C3%ACnh&descSize=18&descAlignY=58&animation=twinkling&textBg=false" 
+  src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20,24,30&text=Ti%E1%BA%BFn%20B%E1%BA%A3o%20GitHub&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=N%C6%A1i%20L%C6%B0u%20Tr%E1%BB%AF%20Nh%E1%BB%AFng%20Th%E1%BB%A9%20T%C3%B4i%20H%E1%BB%8Dc&descSize=18&descAlignY=58&animation=twinkling&textBg=false" 
   width="100%" 
 />
 
