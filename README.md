@@ -44,5 +44,9 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:14532d,30:16a34a,60:22c55e,100:4ade80&animation=twinkling" 
+    alt="Green Footer" 
+    width="100%" 
+  />
 </div>
