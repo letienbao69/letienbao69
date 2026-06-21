@@ -8,10 +8,7 @@
 </div>
 
 # 💫 About Me:
-🌱 Just started coding, still confused most of the time<br>
-🤝 Probably breaking more things than building<br>
-🛠️ Googling errors like a full-time job<br>
-🐢 Slow learner, but not quitting anytime soon
+...
 
 ## 📊 GitHub Stats
 <p align="center">
